@@ -14,3 +14,11 @@ Instuctions:
 
 If you wish to modify the run path to change folder location or the hotkey, you need to edit the file AutoHotkey.ahk which can be done in windows notepad.
 
+
+
+
+
+
+
+In-game name: Nehuy
+Any donations would be much appreciated!
